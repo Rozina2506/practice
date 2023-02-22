@@ -51,3 +51,8 @@ mark{
     color: rgb(214, 12, 25);
     border: 2px solid salmon;
 }
+b{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: burlywood;
+}
