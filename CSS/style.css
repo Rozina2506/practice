@@ -1,4 +1,4 @@
-h1{
+/* h1{
     color: crimson;
     font-family: cursive;
     text-align: center;
@@ -55,4 +55,13 @@ b{
     color: blueviolet;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: burlywood;
+} */
+
+audio{
+    height: 200px;
+    width: 200px;
+}
+video{
+    height: 200px;
+    width: 200px;
 }
